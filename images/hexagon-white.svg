@@ -1,0 +1,35 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98.427" height="88.293" viewBox="0 0 98.427 88.293">
+    <defs>
+        <!-- Define the gold gradient with real gold colors -->
+        <linearGradient id="gold-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#F2C14E" /> <!-- Light Gold -->
+            <stop offset="16%" stop-color="#E5B143" /> <!-- Gold yellow -->
+            <stop offset="32%" stop-color="#D89E38" /> <!-- Medium Gold -->
+            <stop offset="48%" stop-color="#C88F2F" /> <!-- Deeper Gold -->
+            <stop offset="64%" stop-color="#B17F25" /> <!-- Dark Gold -->
+            <stop offset="80%" stop-color="#9A6F1C" /> <!-- Very Dark Gold -->
+            <stop offset="96%" stop-color="#7C5C14" /> <!-- Darker Gold -->
+            <stop offset="100%" stop-color="#6E5110" /> <!-- Almost Brown Gold -->
+        </linearGradient>
+        
+        <!-- Define the subtle shine effect -->
+        <linearGradient id="shine-effect" x1="25%" y1="25%" x2="75%" y2="75%">
+            <stop offset="0%" stop-color="rgba(255,255,255,0.4)" />
+            <stop offset="50%" stop-color="rgba(255,255,255,0)" />
+            <stop offset="100%" stop-color="rgba(255,255,255,0.4)" />
+        </linearGradient>
+    </defs>
+    
+    <style>
+        .gold { fill: url(#gold-gradient); }
+        .shine { fill: url(#shine-effect); }
+    </style>
+    
+    <title>hexagon-gold-real</title>
+    
+    <!-- Gold hexagon with real gold gradient -->
+    <path class="gold" d="M3,49.342A11.528,11.528,0,0,1,3,38.95L22.488,5.2a11.528,11.528,0,0,1,9-5.2H70.464a11.528,11.528,0,0,1,9,5.2L98.952,38.95a11.528,11.528,0,0,1,0,10.392L79.464,83.1a11.528,11.528,0,0,1-9,5.2H31.488a11.528,11.528,0,0,1-9-5.2Z" transform="translate(-1.763)" />
+    
+    <!-- Subtle shine overlay -->
+    <path class="shine" d="M3,49.342A11.528,11.528,0,0,1,3,38.95L22.488,5.2a11.528,11.528,0,0,1,9-5.2H70.464a11.528,11.528,0,0,1,9,5.2L98.952,38.95a11.528,11.528,0,0,1,0,10.392L79.464,83.1a11.528,11.528,0,0,1-9,5.2H31.488a11.528,11.528,0,0,1-9-5.2Z" transform="translate(-1.763)" />
+</svg>

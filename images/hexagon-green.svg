@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 98.4 88.3" style="enable-background:new 0 0 98.4 88.3;" xml:space="preserve">
+	<defs>
+		<!-- Define the exact gradient -->
+		<linearGradient id="gold-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+			<stop offset="0%" style="stop-color:rgb(178,147,98);" />
+			<stop offset="3.2%" style="stop-color:rgb(183,155,109);" />
+			<stop offset="6.4%" style="stop-color:rgb(187,160,113);" />
+			<stop offset="9.6%" style="stop-color:rgb(187,160,112);" />
+			<stop offset="12.9%" style="stop-color:rgb(186,159,110);" />
+			<stop offset="16.1%" style="stop-color:rgb(185,157,109);" />
+			<stop offset="19.3%" style="stop-color:rgb(184,157,109);" />
+			<stop offset="22.6%" style="stop-color:rgb(184,157,108);" />
+			<stop offset="25.8%" style="stop-color:rgb(183,156,108);" />
+			<stop offset="29%" style="stop-color:rgb(183,156,107);" />
+			<stop offset="32.2%" style="stop-color:rgb(182,155,107);" />
+			<stop offset="35.4%" style="stop-color:rgb(182,155,106);" />
+			<stop offset="38.7%" style="stop-color:rgb(181,155,106);" />
+			<stop offset="45.1%" style="stop-color:rgb(181,154,106);" />
+			<stop offset="48.3%" style="stop-color:rgb(180,154,106);" />
+			<stop offset="58%" style="stop-color:rgb(179,154,106);" />
+			<stop offset="64.5%" style="stop-color:rgb(179,153,106);" />
+			<stop offset="67.7%" style="stop-color:rgb(178,153,106);" />
+			<stop offset="70.9%" style="stop-color:rgb(178,152,106);" />
+			<stop offset="80.6%" style="stop-color:rgb(177,149,104);" />
+			<stop offset="83.8%" style="stop-color:rgb(164,133,83);" />
+			<stop offset="87%" style="stop-color:rgb(174,140,87);" />
+			<stop offset="93.5%" style="stop-color:rgb(118,83,43);" />
+			<stop offset="96.7%" style="stop-color:rgb(81,44,16);" />
+			<stop offset="100%" style="stop-color:rgb(109,66,36);" />
+		</linearGradient>
+	</defs>
+	<style type="text/css">
+		.st0 { fill: url(#gold-gradient); }
+	</style>
+	<title>hexagon-gold</title>
+	<path class="st0" d="M1.2,49.3c-1.6-3.3-1.6-7.1,0-10.4L20.7,5.2c2-3.1,5.3-5,9-5.2h39c3.7,0.2,7,2.1,9,5.2L97.2,39
+	c1.6,3.3,1.6,7.1,0,10.4L77.7,83.1c-2,3.1-5.3,5-9,5.2h-39c-3.7-0.2-7-2.1-9-5.2L1.2,49.3z"/>
+</svg>
